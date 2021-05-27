@@ -13,7 +13,7 @@
 
 ## Customer Acquisition and Retention improvement Using Data Analysis Techniques
 
-* Chose four data analysis techniques (Data Collection, Data Processing,Data Cleaning and Data Management), analysed and evaluated them. 
+* Chose four data analysis techniques (Data Collection, Data Processing, Data Cleaning and Data Management), analysed and evaluated them. 
 
 * Discussed the theoretical aspect of these techniques and the tools that can be used for them
 
